@@ -1,17 +1,25 @@
 # Algoritmos em C
 
-Repositório destinado ao armazenamento e à organização das atividades práticas da disciplina de Algoritmos.
+Repositório destinado ao armazenamento das atividades práticas da disciplina de **Algoritmos**, do curso de Engenharia de Software do Centro Universitário de João Pessoa (UNIPÊ).
 
 ## Objetivo
 
-Praticar os fundamentos da programação utilizando a linguagem C, desenvolvendo lógica de programação e resolução de problemas.
+Praticar os fundamentos da lógica de programação utilizando a linguagem C, por meio da resolução de exercícios propostos em sala de aula.
 
-## Organização
+## Conteúdos abordados
 
-- `lista-01/` — Primeira lista de exercícios.
-- `lista-02/` — Segunda lista de exercícios.
+- Variáveis e tipos de dados
+- Estruturas condicionais
+- Estruturas de repetição
+- Operadores aritméticos e lógicos
+- Entrada e saída de dados
 
-Cada questão possui um arquivo `.c` independente.
+## Atividades
+
+| Questão | Descrição |
+|---|---|
+| 01 | Consumo mensal de água de cinco moradores |
+| 02 | Simulação de um cofrinho digital |
 
 ## Tecnologias
 
@@ -19,6 +27,9 @@ Cada questão possui um arquivo `.c` independente.
 - GCC
 - Git e GitHub
 
-## Autor
+---
 
-Davi Amaral
+**Autor:** Davi Amaral  
+**Curso:** Engenharia de Software — UNIPÊ
+
+*Repositório desenvolvido para fins educacionais.*
